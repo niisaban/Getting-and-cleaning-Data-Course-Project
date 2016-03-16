@@ -1,6 +1,6 @@
 # Getting-and-cleaning-Data-Course-Project
 This is a project to demonstrate ability to collect, work with, and clean a data set.
-The R script,  run_analysis.R , does the following:
+The R script,  'run_analysis.R' , does the following:
 1. Downloads a file containing a dataset
 2. unzips the file and sets a working directory
 3. Loads the activity and feature info
